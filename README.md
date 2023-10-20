@@ -3,6 +3,13 @@
 Este es un proyecto REST API, el mismo esta realizado con python 3.
 Como framework Base se utiliza Flask.
 
+## ℹ️ Para que sirve la Blacklist?
+
+Una blacklist o lista negra es un componente que nos permite administrar el ingreso o egreso de entidades freuduletas.
+Una ejemplo seria el detectar un intento de fraude dentro de un flujo de negocio determinado e intentar guardar a esa persona o entidad
+para no permitirle que pueda seguir operando en los flujo de negocio por un tiempo determinado.
+
+
 ## Componentes a instalar
 
 ### Flask
@@ -11,11 +18,6 @@ Flask es un microframework de Python que permite crear aplicaciones web con unas
 
 > pip install Flask
 
-## ℹ️ Para que sirve la Blacklist?
-
-Una blacklist o lista negra es un componente que nos permite administrar el ingreso o egreso de entidades freuduletas.
-Una ejemplo seria el detectar un intento de fraude dentro de un flujo de negocio determinado e intentar guardar a esa persona o entidad
-para no permitirle que pueda seguir operando en los flujo de negocio por un tiempo determinado.
 
 
 ### Entidades Basicas de la blacklist
