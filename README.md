@@ -98,4 +98,4 @@ La duración dentro de la la blacklist es indifido.
 - [Kevin Hidalgo](https://github.com/usuario-colaborador-1)
 - [Mateo Calcagno](https://github.com/usuario-colaborador-2)
 - [Yoel Enrriquez](https://github.com/usuario-colaborador-3)
-- [Soria Maximiliano](https://github.com/usuario-colaborador-3)
+- [Soria Maximiliano](https://github.com/MaximilianoRodrigoSoria)
