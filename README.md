@@ -5,8 +5,8 @@ Como framework Base se utiliza Flask.
 
 ## ℹ️ Para que sirve la Blacklist?
 
-Una blacklist o lista negra es un componente que nos permite administrar el ingreso o egreso de entidades freuduletas.
-Una ejemplo seria el detectar un intento de fraude dentro de un flujo de negocio determinado e intentar guardar a esa persona o entidad
+Una blacklist o lista negra es un componente que nos permite administrar el ingreso o egreso de entidades fraudulentas.
+Un ejemplo sería el detectar un intento de fraude dentro de un flujo de negocio determinado e intentar guardar a esa persona o entidad
 para no permitirle que pueda seguir operando en los flujo de negocio por un tiempo determinado.
 
 
@@ -96,6 +96,6 @@ La duración dentro de la la blacklist es indifido.
 ## Colaboradores
 
 - [Kevin Hidalgo](https://github.com/usuario-colaborador-1)
-- [Mateo Calcagno](https://github.com/usuario-colaborador-2)
-- [Yoel Enrriquez](https://github.com/usuario-colaborador-3)
+- [Mateo Calcagno](https://github.com/matepore)
+- [Yoel Enriquez](https://github.com/usuario-colaborador-3)
 - [Soria Maximiliano](https://github.com/MaximilianoRodrigoSoria)
